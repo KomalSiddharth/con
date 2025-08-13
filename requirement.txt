@@ -1,0 +1,7 @@
+torch 
+transformers>=4.40.0
+wordfreq
+evaluate
+textdistance
+numpy
+scikit-learn

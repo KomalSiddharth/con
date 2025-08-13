@@ -1,0 +1,4 @@
+In the field of machine learning , stochastic gradent decent ( SGD ) is a popular optmization algorithim .
+However , its performence can degrate without proper hyperparametar tuning .
+The model ' s capacity to genralize is influnced by regulariztion techniques such as dropout and weight decay .
+Convolutinal neural nets ( CNNs ) excel at image classificashun but can suffer from overfiting if not properly validated .
